@@ -1,0 +1,20 @@
+{
+  "name": "generic-http-client",
+  "version": "0.1.0",
+  "description": "Simple configurable HTTP client for testing your Service Mesh",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patricekrakow/generic-http-client.git"
+  },
+  "author": "Patrice Krakow <patrice.krakow@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patricekrakow/generic-http-client/issues"
+  },
+  "homepage": "https://github.com/patricekrakow/generic-http-client#readme"
+}
